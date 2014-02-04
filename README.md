@@ -47,8 +47,7 @@ You can access phpMyAdmin:
 
 * If you're needing a password (for anything - including mysql, it should be `vagrant`)
 
-## Getting Help
 
-Feel free to file an issue, create a pull request, or contact me at [my website][chadthompson].
 
-[chadthompson]: http://chadthompson.me
+
+Inspired by Chad Thompson work.
