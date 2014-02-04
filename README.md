@@ -1,7 +1,7 @@
 # What's Installed
 
 + Ubuntu Precise (12.04)
-+ Wordpress 3.8
++ Latest Wordpress 
 + Mysql
 + Php
 + Phpmyadmin
